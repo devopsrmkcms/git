@@ -1,0 +1,154 @@
+# ✅ 📘 GIT SYLLABUS (ONLY MAIN TOPICS)
+
+***
+
+### ✅ 1. Git Basics
+
+* Version Control Systems
+* Git vs SVN
+* Distributed vs Centralized VCS
+* Repository (Local & Remote)
+* Working Directory / Staging / Commit lifecycle
+
+***
+
+### ✅ 2. File Lifecycle
+
+* File states (Untracked, Staged, Committed)
+* Tracking changes
+* File management in Git
+
+***
+
+### ✅ 3. Branching & Merging
+
+* Branching concept
+* HEAD pointer
+* Default branch (main/master)
+* Merge vs Rebase
+* Branch types and workflows
+
+***
+
+### ✅ 4. Merge Conflicts
+
+* Conflict causes
+* Conflict structure
+* Conflict resolution process
+
+***
+
+### ✅ 5. Rebase
+
+* Linear history concept
+* Rewriting commits
+* Interactive rebase
+
+***
+
+### ✅ 6. Remote Repositories
+
+* origin and upstream
+* Syncing local and remote
+* fetch vs pull
+
+***
+
+### ✅ 7. Git Workflow
+
+* Git Flow
+* Feature Branch Workflow
+* Trunk-based Development
+
+***
+
+### ✅ 8. Stashing
+
+* Temporary saving changes
+* Work switching
+
+***
+
+### ✅ 9. Undo Changes
+
+* Reset concept
+* Revert concept
+* Restore concept
+
+***
+
+### ✅ 10. Tags
+
+* Versioning
+* Release management
+
+***
+
+### ✅ 11. Logs & Debugging
+
+* Commit history tracking
+* Change comparison
+* File-level debugging
+* Author tracking (blame concept)
+* History-based debugging
+
+***
+
+### ✅ 12. .gitignore
+
+* Ignoring files
+* Pattern rules
+* Sensitive data protection
+* Repository cleanup
+
+***
+
+### ✅ 13. Git Hooks
+
+* Pre-commit
+* Post-commit
+* Pre-push automation
+
+***
+
+### ✅ 14. Cherry Pick
+
+* Selective commit transfer
+
+***
+
+### ✅ 15. Submodules
+
+* External repository integration
+
+***
+
+### ✅ 16. Authentication & Security
+
+* HTTPS vs SSH
+* Key-based authentication
+
+***
+
+### ✅ 17. Git Internals
+
+* Git objects (blob, tree, commit)
+* SHA hashing
+* Snapshot storage
+
+***
+
+### ✅ 18. Git with CI/CD
+
+* Pipeline integration
+* Automated workflows
+* Code-to-deployment flow
+
+***
+
+### ✅ 19. Git Best Practices
+
+* Commit hygiene
+* Branch management
+* Secure coding practices
+
