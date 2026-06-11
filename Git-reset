@@ -146,3 +146,5 @@ Now:
 
 > **git reset is used to undo commits and go back to a previous state, with options to keep or delete your changes.**
 
+ when commit is wrong but code is fine
+
