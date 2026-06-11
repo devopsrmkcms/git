@@ -1,0 +1,9 @@
+Merge: Combine changes from one branch into another while keeping history.
+Rebase: Move your branch on top of another branch to make history linear.
+Squash: Combine multiple commits into a single commit.
+Stash: Temporarily save uncommitted changes and clean your working directory.
+Reset: Undo commits and move back to a previous state (optionally keeping changes).
+Revert: Undo a commit by creating a new commit that reverses it.
+Fetch: Get latest changes from remote without merging them.
+Push: Send your local commits to the remote repository.
+Pull: Fetch + merge changes from remote into your local branch
